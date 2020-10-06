@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "./cmd"
+import "github.com/japm94/tfgen/cmd"
 
 func main() {
 	cmd.Execute()
